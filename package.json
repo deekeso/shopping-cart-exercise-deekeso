@@ -1,0 +1,19 @@
+{
+  "name": "amaysim-shopping-cart-exercise",
+  "version": "1.0.0",
+  "description": "Native JavaScript shopping cart exercise with pricing rules.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node tests/scenarios.test.js",
+    "start": "node src/cli.js",
+    "scenarios": "node tests/scenarios.test.js"
+  },
+  "keywords": [
+    "shopping-cart",
+    "javascript",
+    "pricing-rules"
+  ],
+  "author": "",
+  "license": "MIT"
+}
